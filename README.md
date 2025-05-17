@@ -1,6 +1,6 @@
 # DISTRHO Ildaeil
 
-Test
+Test Test
 
 DISTRHO Ildaeil is mini-plugin host working as a plugin, allowing one-to-one plugin format reusage.  
 The idea is to load it as a plugin inside your DAW and then the other "real" plugin inside Ildaeil.  
